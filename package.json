@@ -1,0 +1,14 @@
+{
+  "name": "ch2_js_dev_tools",
+  "version": "1.0.0",
+  "description": "for testing js dev tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Gutonski",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
